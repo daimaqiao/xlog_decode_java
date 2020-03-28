@@ -1,0 +1,5 @@
+out/
+*.jnilib
+*.so
+*.xlog
+!demo/*.xlog
